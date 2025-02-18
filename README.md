@@ -39,7 +39,7 @@ Getting Started
 To run the code in this repository, you need a C++ compiler. Follow these steps:
 
 Clone the repository:
-git clone https://github.com/yourusername/OOP-Spring-2025.git
+git clone https://github.com/noumanalisyed/OOP-Spring-2025.git
 Navigate to the folder containing the code you want to run:
 cd OOP-Spring-2025/Chapter-1
 Compile the code:
