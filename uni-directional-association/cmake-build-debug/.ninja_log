@@ -1,0 +1,11 @@
+# ninja log v6
+44	2278	1733134864574911796	CMakeFiles/uni_directional_association.dir/main.cpp.o	7d523bade3456c3
+5255	5485	1731929444690314241	uni_directional_association	93fdffd189f6da11
+51	2298	1733134864613236964	CMakeFiles/uni_directional_association.dir/Library.cpp.o	d594546a46f90a61
+21	36	1733134864214459602	clean	83894db720a180e2
+48	3166	1733134946568019897	CMakeFiles/uni_directional_association.dir/Book.cpp.o	a447c877a5cae2d0
+41	3176	1733134946561010222	CMakeFiles/uni_directional_association.dir/main.cpp.o	7d523bade3456c3
+44	3186	1733134946564648095	CMakeFiles/uni_directional_association.dir/Library.cpp.o	d594546a46f90a61
+3186	3353	1733134949705931096	uni_directional_association	66ee04553b1f3f7a
+83	9799	1733138907861940037	CMakeFiles/uni_directional_association.dir/Book.cpp.o	a447c877a5cae2d0
+9800	13772	1733138917578563084	uni_directional_association	66ee04553b1f3f7a
